@@ -15,7 +15,7 @@ and it must therefore be installed.
 
 ## Language Tags
 
-The package has scans the file for language tags like `lang = "en_US"` to
+The package scans the file for language tags like `lang = "en_US"` to
 determine the appropriate dictionary. This is still very preliminary, though.
 
 ## Status
