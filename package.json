@@ -1,0 +1,54 @@
+{
+  "name": "linter-spell-html",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Provider for Atom linter-spell package to enable HTML spell checking.",
+  "author": "Tarn Burton <twburton@gmail.com>",
+  "keywords": [
+    "html",
+    "lint",
+    "linter",
+    "spellcheck",
+    "spelling"
+  ],
+  "repository": "https://github.com/yitzchak/linter-spell-html",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/yitzchak/linter-spell-html/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.13.0",
+    "atom-package-deps": "^4.0.0"
+  },
+  "package-deps": [
+    "linter-spell",
+    "language-html"
+  ],
+  "standard": {
+    "parser": "babel-eslint",
+    "globals": [
+      "atom",
+      "latex",
+      "afterEach",
+      "beforeEach",
+      "describe",
+      "expect",
+      "it",
+      "jasmine",
+      "runs",
+      "spyOn",
+      "waitsFor",
+      "waitsForPromise"
+    ]
+  },
+  "providedServices": {
+    "linter-spell-grammar": {
+      "versions": {
+        "1.0.0": "provideGrammar"
+      }
+    }
+  }
+}
