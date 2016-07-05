@@ -2,7 +2,7 @@
   "name": "linter-spell-html",
   "main": "./lib/main",
   "version": "0.2.0",
-  "description": "Provider for Atom linter-spell package to enable HTML spell checking.",
+  "description": "HTML spell checking using linter-spell.",
   "author": "Tarn Burton <twburton@gmail.com>",
   "keywords": [
     "html",
