@@ -26,7 +26,7 @@ describe('The linter-spell-html provider for Atom Linter', () => {
   it('finds language "foo.html"', () => {
     waitsForPromise(() => {
       return atom.workspace.open(path.join(__dirname, 'files', 'foo.html')).then(editor => {
-        expect(_.isEqual(grammar.getDictionaries(editor), ['en-US'])).toBe(true, 'en-US language')
+        expect(_.isEqual(grammar.findLanguageTags(editor), ['en-US'])).toBe(true, 'en-US language')
       })
     })
   })
