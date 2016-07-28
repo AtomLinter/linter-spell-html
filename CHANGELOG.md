@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.5.0](https://github.com/yitzchak/linter-spell-html/tree/0.5.0) (2016-07-28)
+[Full Changelog](https://github.com/yitzchak/linter-spell-html/compare/v0.4.0...0.5.0)
+
+**Implemented enhancements:**
+
+- Support embedded spell checking [\#3](https://github.com/yitzchak/linter-spell-html/issues/3)
+
 ## [v0.4.0](https://github.com/yitzchak/linter-spell-html/tree/v0.4.0) (2016-07-14)
 [Full Changelog](https://github.com/yitzchak/linter-spell-html/compare/v0.3.0...v0.4.0)
 
