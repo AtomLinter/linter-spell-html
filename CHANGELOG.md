@@ -1,7 +1,14 @@
 # Change Log
 
-## [0.5.0](https://github.com/yitzchak/linter-spell-html/tree/0.5.0) (2016-07-28)
-[Full Changelog](https://github.com/yitzchak/linter-spell-html/compare/v0.4.0...0.5.0)
+## [0.6.0](https://github.com/yitzchak/linter-spell-html/tree/0.6.0) (2016-09-03)
+[Full Changelog](https://github.com/yitzchak/linter-spell-html/compare/v0.5.0...0.6.0)
+
+**Implemented enhancements:**
+
+- Implement grammar specific dictionary [\#4](https://github.com/yitzchak/linter-spell-html/issues/4)
+
+## [v0.5.0](https://github.com/yitzchak/linter-spell-html/tree/v0.5.0) (2016-07-28)
+[Full Changelog](https://github.com/yitzchak/linter-spell-html/compare/v0.4.0...v0.5.0)
 
 **Implemented enhancements:**
 
