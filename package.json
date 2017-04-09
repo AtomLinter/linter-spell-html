@@ -1,7 +1,7 @@
 {
   "name": "linter-spell-html",
   "main": "./lib/main",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "HTML spell checking using linter-spell.",
   "author": "Tarn Burton <twburton@gmail.com>",
   "keywords": [
@@ -11,13 +11,13 @@
     "spellcheck",
     "spelling"
   ],
-  "repository": "https://github.com/yitzchak/linter-spell-html",
+  "repository": "https://github.com/AtomLinter/linter-spell-html",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
   },
   "bugs": {
-    "url": "https://github.com/yitzchak/linter-spell-html/issues"
+    "url": "https://github.com/AtomLinter/linter-spell-html/issues"
   },
   "dependencies": {
     "lodash": "^4.13.0",
