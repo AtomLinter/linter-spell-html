@@ -1,6 +1,8 @@
 # linter-spell-html
 
-[![Travis-CI Build Status](https://img.shields.io/travis/yitzchak/linter-spell-html/master.svg?label=Linux/OSX%20build)](https://travis-ci.org/yitzchak/linter-spell-html) [![AppVeyor Build Status](https://img.shields.io/appveyor/ci/yitzchak/linter-spell-html/master.svg?label=Windows%20build)](https://ci.appveyor.com/project/yitzchak/linter-spell-html) [![David](https://img.shields.io/david/yitzchak/linter-spell-html.svg)](https://david-dm.org/yitzchak/linter-spell-html)
+[![Travis-CI Build Status](https://img.shields.io/travis/AtomLinter/linter-spell-html/master.svg?label=Linux/OSX%20build)](https://travis-ci.org/AtomLinter/linter-spell-html)
+[![AppVeyor Build Status](https://img.shields.io/appveyor/ci/yitzchak/linter-spell-html/master.svg?label=Windows%20build)](https://ci.appveyor.com/project/yitzchak/linter-spell-html)
+[![David](https://img.shields.io/david/AtomLinter/linter-spell-html.svg)](https://david-dm.org/AtomLinter/linter-spell-html)
 
 Provider for Atom [linter-spell](https://atom.io/packages/linter-spell) package
 to enable HTML spell checking.
